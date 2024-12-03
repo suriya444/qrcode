@@ -11,20 +11,3 @@ This is a simple JavaScript application to generate QR Code for any given data o
 » HTML <br />
 » CSS <br />
 » JavaScript <br />
-
-
-## Screenshot(s) of the Project 📸
-
-
-## Installation and Setup Instructions 🛠️
-
-```
-1. Clone this repository
-   git clone https://github.com/alok-96/QR-Code-Generator.git
-
-2. Go into the repository
-   cd QR-Code-Generator
-
-3. Open with Live Server
-```
-
