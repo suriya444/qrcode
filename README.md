@@ -14,9 +14,7 @@ This is a simple JavaScript application to generate QR Code for any given data o
 
 
 ## Screenshot(s) of the Project 📸
-<h3 align='center'>Home Page 🏠</h3>
 
-![image](https://github.com/alok-96/QR-Code-Generator/assets/90456532/e1d733ba-87fb-45ff-8f5d-8371a370d93c)
 
 ## Installation and Setup Instructions 🛠️
 
@@ -30,4 +28,3 @@ This is a simple JavaScript application to generate QR Code for any given data o
 3. Open with Live Server
 ```
 
-<h3 align='center'>Made With ❤️ by <a href='https://github.com/alok-96' >alok-96</a></h3>
